@@ -1,0 +1,28 @@
+body{
+    color: #373A3C;
+    font-family: Cabin, "Sans Serif";
+    font-weight: 400;
+    min-width: 360px;
+}
+footer{
+    height: 4em;
+}
+.imagen img{
+    max-height: 20em;
+    width: 100%;
+}
+.ingredientes{
+    line-height: .6;
+}
+.logo{
+    font-family: Lobster, "Sans Serif";
+    font-weight: 700;
+}
+.menu{
+    background-color: #373A3C;
+}
+.suscribir{
+    background-color: #DC3545;
+    height: 448px;
+    padding-top: 10em;
+}
